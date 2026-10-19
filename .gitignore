@@ -1,0 +1,5 @@
+mydata.db
+pdd_profile/
+*.png
+__pycache__/
+*.log
